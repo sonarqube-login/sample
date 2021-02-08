@@ -3,6 +3,7 @@
 Simple application with authentication and CRUD functionality using the Python Flask micro-framework
 
 ## Installation process
+## New feature branch
 
 To use this template, your computer needs:
 
