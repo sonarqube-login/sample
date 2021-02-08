@@ -2,7 +2,7 @@
 
 Simple application with authentication and CRUD functionality using the Python Flask micro-framework
 
-## Installation
+## Installation process
 
 To use this template, your computer needs:
 
